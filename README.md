@@ -18,9 +18,13 @@ Seaborn
 📊 Planned Analysis
 
 Distribution of Movies vs TV Shows
+
 Trends in content release years
+
 Genre popularity over time
+
 Country-wise contributions to Netflix’s catalogue
+
 Most frequent directors and actors
 
 📂 Project Structure
@@ -34,3 +38,5 @@ netflix-content-explorer/
 
 📖 Dataset Source
 [Netflix_movies_and_tv_shows_clustering.csv](https://www.kaggle.com/code/bansodesandeep/netflix-movies-and-tv-shows-clustering/input)
+-Contains ~8,800 titles with attributes such as type, director, cast, country, release year, rating, and genre.
+
