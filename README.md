@@ -10,29 +10,37 @@ This project analyzes the Netflix Movies and TV Shows dataset (sourced from Kagg
 
 🔧 Tools & Libraries
 
-Python
-Pandas
-Matplotlib
-Seaborn
+Python,
+Pandas,
+Matplotlib,
+Seaborn.
 
 📊 Planned Analysis
 
-Distribution of Movies vs TV Shows
+-Distribution of Movies vs TV Shows
 
-Trends in content release years
+-Trends in content release years
 
-Genre popularity over time
+-Genre popularity over time
 
-Country-wise contributions to Netflix’s catalogue
+-Country-wise contributions to Netflix’s catalogue
 
-Most frequent directors and actors
+-Most frequent directors and actors
+
+Plots are added in Jupyter Notebook
 
 📂 Project Structure
+
 netflix-content-explorer/
+
 │
+
 ├── data/               # (dataset goes here, not uploaded due to size/license)
+
 ├── notebooks/
+
 │   └── netflix_analysis.ipynb   # main analysis notebook
+
 ├── README.md           # project description
 
 
