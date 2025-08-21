@@ -64,3 +64,13 @@ netflix-content-explorer/
 Contains ~8,800 titles with attributes such as type, director, cast, country, release year, rating, and genre.
 
 Dataset originally from Kaggle (https://www.kaggle.com/datasets)
+
+[How to Run]
+
+git clone https://github.com/midknight247/netflix-analysis.git
+
+cd netflix-analysis
+
+pip install -r requirements.txt
+
+jupyter notebook
